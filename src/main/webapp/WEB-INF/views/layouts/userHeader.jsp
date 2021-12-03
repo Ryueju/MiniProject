@@ -79,7 +79,7 @@
 						<li><a href="#" data-toggle="modal" data-target="#loginModal">login</a></li>
 
 						<li><a href="#"><img src="resources/user/img/myinfo.png"></a></li>
-						<li><a href="adminMain.do">관리자 화면으로</a></li>
+						<li><a href="adminMain.do">관리자 화면으로재의꺼임</a></li>
 					</ul>
 				</div>
 			</div>
