@@ -41,5 +41,10 @@ public class UserController {
 	public String board() {
 		return "user/board";
 	}
+	
+	@RequestMapping("/faq.do")
+	public String faq() {
+		return "user/faq";
+	}
 	//community-end
 }
